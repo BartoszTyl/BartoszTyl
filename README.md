@@ -1,4 +1,8 @@
-## Hi there 👋
+👋 Hi, I’m Bartosz
+
+💾 Database Administrator in SHB Real Estate. A commerical real estate company.
+🎓 BSc Computer Science student at the University of London
+🏎️ Passionate about Formula 1 analytics & telemetry systems
 
 <!--
 **BartoszTyl/BartoszTyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
