@@ -1,4 +1,4 @@
-👋 Hi, I’m Bartosz
+##👋 Hi, I’m Bartosz
 
 💾 Database Administrator in SHB Real Estate. A commerical real estate company.
 🎓 BSc Computer Science student at the University of London
